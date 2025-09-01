@@ -44,7 +44,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg/https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Eric-LDo/Eric-LDo/blob/output/github-contribution-grid-snake.svg)
 
 ###
 

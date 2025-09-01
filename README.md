@@ -46,7 +46,7 @@
 
 ###
 
-![snake gif](https://github.com/Eric-LDo/Eric-LDo/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
 
 ###
 

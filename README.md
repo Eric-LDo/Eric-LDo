@@ -45,8 +45,9 @@
 
 
 ###
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Eric-LDo/Eric-LDo/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 

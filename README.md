@@ -15,7 +15,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" width="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="[https://skillicons.dev/icons?i=nestjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Freactjscommunity%2F&psig=AOvVaw0o8_ZiQ_E_YrAJdfTUmrA5&ust=1756822823975000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDPjcHht48DFQAAAAAdAAAAABAE)" height="60" width="60" alt="React logo"  />
+  <img src="https://www.brasilcode.com.br/wp-content/uploads/2025/05/livros-react.jpg" height="60" width="60" alt="React logo"  />
   
   
 </div>

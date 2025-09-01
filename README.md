@@ -5,15 +5,17 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" width="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" width="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" width="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" width="60" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" width="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="[https://skillicons.dev/icons?i=nestjs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Freactjscommunity%2F&psig=AOvVaw0o8_ZiQ_E_YrAJdfTUmrA5&ust=1756822823975000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLDPjcHht48DFQAAAAAdAAAAABAE)" height="60" width="60" alt="React logo"  />
   
   
 </div>

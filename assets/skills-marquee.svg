@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2520 60" width="100%" height="60" role="img" aria-label="Skills carousel">
+  <defs>
+    <style>
+      .icon { height:40px; }
+    </style>
+  </defs>
+
+  <!-- sequência original com id -->
+  <g id="logos" transform="translate(0,0)">
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="0"    y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" x="120" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" x="240" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" x="360" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" x="480" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" x="600" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" x="720" y="10" class="icon
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" x="840" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" x="960" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" x="1080" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" x="1200" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" x="1320" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="1440" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" x="1560" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" x="1680" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" x="1800" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" x="1920" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="2040" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" x="2160" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="2280" y="10" class="icon"/>
+    <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" x="2400" y="10" class="icon"/>
+  </g>
+
+  <!-- cópia deslocada (sem referenciar o mesmo id) -->
+  <g id="logos-copy">
+    <use href="#logos" x="2520" />
+  </g>
+
+  <!-- animação do grupo que contém as duas sequências -->
+  <g id="marquee">
+    <use href="#logos" />
+    <use href="#logos-copy" />
+    <animateTransform attributeName="transform" type="translate"
+                      from="0 0" to="-2520 0" dur="18s" repeatCount="indefinite" />
+  </g>
+</svg>
